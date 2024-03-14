@@ -64,7 +64,7 @@ void display() {
 int main()
 {
     input();
-    insertSort();
+    insertionSort();
     display();
     system("Pause");
     return 0;
