@@ -63,5 +63,9 @@ void display() {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    input();
+    insertSort();
+    display();
+    system("Pause");
+    return 0;
 }
